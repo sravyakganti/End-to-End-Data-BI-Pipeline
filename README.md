@@ -33,10 +33,3 @@ Data Model:Star Schema (1-to-Many relationships).
 Key Metrics:
 `Total Revenue` (Calculated via DAX: `SUMX(Quantity * Price)`).
 Sales by Category and Time.
-
- Dashboard Preview
-The Executive Dashboard:
-[Dashboard Screenshot](03_visualization/dashboard_screenshot.png)
-
-The Data Model (Star Schema):
-[Data Model](03_visualization/model_view.png)
